@@ -1,28 +1,40 @@
-name: Doufexis
-favicon: null
-layout_spectrum: 0.8633591756224632
-typography_spectrum: 0.4924826107453555
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 1
+  brandStrength: 0.6053541181609035
+  lightness: 0.4989259
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.6053541181609035
-  lightness: 0.5361195101868361
-  saturation: 0.36603432544507086
-  rhythmicContrast: 0.6293078281451017
-purpose: []
+  rhythmicContrast: 0.2185821
+typography_spectrum: 0.7148228
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.9393126
+favicon: null
+name: Doufexis
