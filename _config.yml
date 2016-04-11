@@ -1,7 +1,8 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -12,15 +13,15 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
-  saturation: 1
+  saturation: 0
   brandStrength: 0.6053541181609035
   lightness: 0.4989259
   brandColors:
@@ -29,12 +30,11 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  rhythmicContrast: 0.2185821
+  rhythmicContrast: 0
 typography_spectrum: 0.7148228
-cta:
-  bucket: null
-  version: null
-  domain: null
 layout_spectrum: 0.9393126
-favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: Doufexis
