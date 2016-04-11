@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Doufexis]]></title>
+        <description><![CDATA[Doufexis]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Apr 2016 05:24:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[#Doufexis2016]]></title>
+            <description><![CDATA[<article><h1>#Doufexis2016</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1768817-521b-48d6-910c-a57298c1fb2c.png"></article>]]></description>
+            <link>undefineddoufexis2016/index.html</link>
+            <guid isPermaLink="false">ae2a04e7-28b1-4936-b7fb-9a4b4f5eb4c4</guid>
+            <pubDate>Mon, 11 Apr 2016 05:24:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
