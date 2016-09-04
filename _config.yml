@@ -19,6 +19,9 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Ashley Doufexis
+  email: ashley@choosenative.com
 name: DOUFEXIS LIFE
 cta:
   domain: null
@@ -38,5 +41,4 @@ collections:
     permalink:
       path: '/:title/'
 title: Doufexis Life
-description: ...it's better than yours.
 purpose: []
