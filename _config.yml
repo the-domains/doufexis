@@ -1,7 +1,30 @@
-name: DOUFEXIS LIFE
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.7148228
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: DOUFEXIS LIFE
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +38,5 @@ collections:
     permalink:
       path: '/:title/'
 title: Doufexis Life
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 0
+description: it's better than yours...
 purpose: []
